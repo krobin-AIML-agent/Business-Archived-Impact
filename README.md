@@ -1,3 +1,4 @@
+**3. Case studies**
 # Business-Archived-Impact
 [Intergrated SCM.pdf](https://github.com/user-attachments/files/20237194/Intergrated.SCM.pdf)
 [Global Network Design.pdf](https://github.com/user-attachments/files/20237193/Global.Network.Design.pdf)
