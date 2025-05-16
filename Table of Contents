@@ -1,6 +1,23 @@
-## 📌 Table of Contents
-- [Supply Chain Strategy and Design]()
-- [Logistics and Distribution Optimization]()
-- [Demand Management and Forecasting]()
-- [Inventory Management]()
-- [Process Optimization and Problem Solving]()
+/SCM-Cases
+├── Supply Chain Strategy and Design
+│   ├── Global_Network_Design
+│   ├── Integrated_SCM
+│   └── SCM_Alignment
+│
+├── Logistics and Distribution Optimization
+│   ├── Distribution_Network_Design_Case
+│   └── Vendor_Selection
+│
+├── Demand Management and Forecasting
+│   ├── Demand Management
+│   ├── Forecasting Case
+│   ├── Forecasting Write-Up
+│   └── Demand Management Tennessee Spirit
+│
+├── Inventory Management
+│   ├── Inventory Case
+│   └── Inventory Data
+│
+└── Process Optimization and Problem Solving
+    ├── ACME Communication Case
+    └── Meat Producer Case
